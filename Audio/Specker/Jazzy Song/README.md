@@ -1,4 +1,6 @@
 Hello, credit is preferred but not required (I'd have no way of knowing if you give credit anyway lol).
+Feel free to reach out to `specker1` on Discord if you have any problems adding this song or it doesn't sound like the preview.
+
 ## Installation
 Nothing special.
 - Move the `drums` folder into wherever you have your DirectSound samples
@@ -8,6 +10,7 @@ Nothing special.
 - Include the song in your `midi.cfg`:
     `mus_jazzy_song:                     -E -R10 -G_jazzy_song -V110`
     - I didn't notice any cliping/crackling at this volume, feel free to set reverb and volume to taste. Note that setting the volume *too* low might mute some lower-velocity notes.
+- Add the song wherever the other songs are mentioned. Please consult external documentation on this, I forget where.
 ## Tips & Tricks
 - The drums in the `drums` folder are from DP/HG, which I got from Emerald Imperium. I have no clue where they come from before that. 
 - The drums don't actually use *all* the samples included in the `drums` folder, and frankly it's a bit irresponsible of me to just throw 'em all in there like I am, but feel free to strip out the samples I don't use.
